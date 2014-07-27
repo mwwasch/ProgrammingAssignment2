@@ -1,4 +1,4 @@
-##Together, makeCacheMatrix and cacheSolve allow one to find the inverse of an
+##Together makeCacheMatrix and cacheSolve allow one to find the inverse of an
 ##invertible matrix and cache the inverse so that if it is needed again later
 ##R will first check to see if it has already been computed, and if so
 ##will retrieve the cached value rather than compute the inverse again
